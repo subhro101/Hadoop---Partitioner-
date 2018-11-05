@@ -10,6 +10,7 @@ ProcessLogs.java(driver)
 CountReducer.java(Reducer)
 LogMonthMapper.java(Mapper)Test data (HDFS):
 
+Java File Location - src/stubs
 
 Test data (HDFS):
 weblog(full web server access log)
